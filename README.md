@@ -17,10 +17,9 @@ New Era University
 
 [Oracle Cloud Infrastructure Foundations Associate 2025](https://catalog-education.oracle.com/ords/certview/sharebadge?id=062CA7EB45C5F58AFB158A8072994EAA01CBBAF461069F5CF11E97295DC08EDC)
 
-[View Requirements
 
-[Oracle Data Platform 2025 Certified Foundations Associate] https://catalog-education.oracle.com/ords/certview/sharebadge?id=062CA7EB45C5F58AFB158A8072994EAA01CBBAF461069F5CF11E97295DC08EDC
----
+[Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=525043749BFDE33E30486BE25DD931D1236CF62CB79CA570F902D18CD8F3F3E2)
+
 
 ## 🧰 Skillsets
 
